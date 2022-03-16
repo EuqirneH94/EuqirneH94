@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Henrique94Mendes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=henrique94mendes&show_icons=false&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique94mendes&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henrique94mendes&show_icons=false&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique94mendes&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: iline_block"  align="center"><br>
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
